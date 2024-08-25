@@ -1,29 +1,29 @@
 
 
 ---
-- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_08_16
+- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_08_25
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +23897899
+[+] New/ReNewed SSL Certs (ALL): +15978115
 
 
 --> 🇦🇷 ar_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +39482
+[+] New/ReNewed SSL Certs (ALL): +35835
 
 ```
 
-- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_08_16 <--> 2024_08_09
+- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_08_25 <--> 2024_08_18
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +127594612
+[+] New/ReNewed SSL Certs (ALL): +128987757
 
 
 --> 🇦🇷 ar_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +250094
+[+] New/ReNewed SSL Certs (ALL): +255177
 
 ```
 
